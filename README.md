@@ -69,6 +69,9 @@ The MAP files search pattern. Defaults to '**/*.map'
 ##### --registry
 Your NPM registry URL, or the default one for your system.
 
+##### --registry-token
+Your private NPM registry token.
+
 ##### --strip-prefix
 
 The prefix to the MAP files in your NPM package, defaults to 'dist'.
